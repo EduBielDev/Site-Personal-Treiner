@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.337" y1="-0.458" x2="0.487" y2="0.542" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#464444"/>
+      <stop offset="1" stop-color="#161618"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_6">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_6" data-name="Web 1920 – 6" clip-path="url(#clip-Web_1920_6)">
+    <rect width="1920" height="1080" fill="url(#linear-gradient)"/>
+    <g id="Caminho_2" data-name="Caminho 2" transform="translate(960)" fill="#2e2d2d">
+      <path d="M 959.5 539.5 L 0.499969482421875 539.5 L 0.499969482421875 0.5 L 959.5 0.5 L 959.5 539.5 Z" stroke="none"/>
+      <path d="M 0.99993896484375 1 L 0.99993896484375 539 L 959 539 L 959 1 L 0.99993896484375 1 M -6.103515625e-05 0 L 960 0 L 960 540 L -6.103515625e-05 540 L -6.103515625e-05 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <rect id="Retângulo_2" data-name="Retângulo 2" width="1920" height="540" transform="translate(0 540)"/>
+  </g>
+</svg>
